@@ -1,0 +1,2056 @@
+//final project 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+ <h1 style="color:orange;">DIONANAO, JASON E. COMPILATION</h1>
+<hr> 
+<h2 style="color:whitesmoke;"> Di pogi pero habulin, <b> PUSA LANG MAHAL KO </b> </p>
+<hr> 
+  
+<div class="kwento" style="position:absolute; top:30px; left:50px;  color: white; ">
+  <img src="ja.png"  style="width:150px;height:180px;border-style: solid;border-color: orange;">
+  </div>
+  <div class="kwento" style="position:absolute; top:30px; left:1300px;  color: white; ">
+          <img src="wes.png"  style="width:150px;height:180px;border-style: solid;border-color: orange;">
+    </div>
+
+
+    <div class="kwento" style="position:absolute; top:220px; left:220px;  color: white; ">
+      <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/about.html" target="_blank" class ="bb">ABOUT ME</a>
+      </div>
+
+    <div class="kwento" style="position:absolute; top:220px; left:400px;  color: white; ">
+      <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/act2.html" target="_blank" class ="bb">ACT 2</a>
+      </div>
+
+    <div class="kwento" style="position:absolute; top:220px; left:520px;  color: white; ">
+      <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/ACT3.HTML" target="_blank" class ="bb">ACT 3</a>
+      </div>
+
+    <div class="kwento" style="position:absolute; top:220px; left:640px;  color: white; ">
+      <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/ACT4.html" target="_blank" class ="bb">ACT 4</a>
+      </div>
+
+    <div class="kwento" style="position:absolute; top:220px; left:760px;  color: white; ">
+      <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/ACT5.html" target="_blank" class ="bb">ACT 5</a>
+      </div>
+    
+    <br> 
+    <br> 
+
+  <h2 style="color: orange; background-color:#808080;"><u>listen to this song</u></h2> 
+  
+  <div class="kwento" style="position:absolute; top:100px; left:10px;  color: white; "></div>
+  <video width="600" height="450" controls>
+    <source src="v1.mp4" type="video/mp4">
+    <source src="v1.oog" type="video/ogg">
+  </video>
+</div>
+
+
+  <p style="color:white;"> sa lahat lahat ng natutunan ko sa klase, nagpapasalamat ako sa aking instructor na si Sir Jonas Macapagal <br> 
+    sa pag tuturo samin kung pano namin lubos na mauunawaan ang mga aralin at kung paano lubos na maisasakatuparan ang pagiging isang ganap <br> 
+    na programer at isang web developer. 
+   </p>
+  
+  
+  </p>
+  <br>
+  <br>
+  <br>
+  
+
+  </body>
+  </html>
+  
+  //1-----------------------------------------------------------------------------------------------------------------------------------------
+  
+ <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+    <h1 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________ABOUT ME__________________</h1>
+    <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________KNOW ME MORE______________________</h3>
+        <h6 style="color: white;background-color: skyblue;">sorry for being workaholic</h6>
+</center>
+<img src="ja.PNG" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+ <br>
+ <br> 
+ <br> 
+     <form action="/action_page.php">
+        <fieldset>
+      
+         <div class="container">
+             <br>
+             <br>
+             <br>
+             
+             <div class="col1">Place of Birth:</div> 
+             <div class="col2">negros oriental </div>
+             <br>
+             <br>
+             <div class="col1">Civil Status:</div>
+             <div class="col2">in a realationship</div>
+             <br>
+             <br>
+             <div class="col1">Religion:</div>
+             <div class="col2">Born again apostolic </div>
+             <br>
+             <br>
+             <div class="col1">Citizenship:</div>
+             <div class="col2">Filipino  </div>
+             <br>
+             <br>
+             <div class="col1">height:</div>
+             <div class="col2">5.11 feet</div>
+             <br>
+             <br>
+             <br>
+             <br>
+   </center>
+        </fieldset>
+             </form>
+ <br><br><br><br><br><br>
+
+<div class="static" style="position:absolute; top:650px; left:100px;">
+         <button style="display:inline-block">
+              <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/web.html"> <img src="m.png" width="40" height="40" >
+         </button>
+</div>
+                  &nbsp;&nbsp;
+
+<div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; text-emphasis-style: orange; ">
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+       San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+       I know to do and I love to do, if you want to know many more about me click the menu button, thank you ☺ </p>
+</div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//2--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+ <h1 style="color:orange;">ACTIVITY 2 </h1>
+<hr>
+<h2 style="color:whitesmoke;"><b>WEBPAGE</b> </p>
+<hr> 
+  <br> 
+
+
+  <h2 style="color: orange; background-color:#808080;"><u>WATCH THIS</u></h2> 
+  
+  <div class="kwento" style="position:absolute; top:100px; left:10px;  color: white; "></div>
+  <video width="1000" height="670" controls>
+    <source src="ACT2.mp4" type="video/mp4">
+    <source src="ACT2.mp4" type="video/ogg">
+  </video>
+</div>
+
+
+  <p style="color:white;"> sa lahat lahat ng natutunan ko sa klase, nagpapasalamat ako sa aking instructor na si Sir Jonas Macapagal <br> 
+    sa pag tuturo samin kung pano namin lubos na mauunawaan ang mga aralin at kung paano lubos na maisasakatuparan ang pagiging isang ganap <br> 
+    na programer at isang web developer. 
+   </p>
+  
+  
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/web.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+  //3-------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+ <h1 style="color:orange;">ACTIVITY 3 </h1>
+<hr>
+<h2 style="color:whitesmoke;"><b>CSS</b> </p>
+<hr> 
+  <br> 
+
+
+  <h2 style="color: orange; background-color:#808080;"><u>WATCH THIS</u></h2> 
+  
+  <div class="kwento" style="position:absolute; top:100px; left:10px;  color: white; "></div>
+  <video width="1000" height="670" controls>
+    <source src="ACT3.mp4" type="video/mp4">
+    <source src="ACT3.mp4" type="video/ogg">
+  </video>
+</div>
+
+
+  <p style="color:white;"> sa lahat lahat ng natutunan ko sa klase, nagpapasalamat ako sa aking instructor na si Sir Jonas Macapagal <br> 
+    sa pag tuturo samin kung pano namin lubos na mauunawaan ang mga aralin at kung paano lubos na maisasakatuparan ang pagiging isang ganap <br> 
+    na programer at isang web developer. 
+   </p>
+  
+  
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/web.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+  //4-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+ <h1 style="color:orange;">ACTIVITY 4 </h1>
+<hr>
+<h2 style="color:whitesmoke;"><b>USER/HOME</b> </p>
+<hr> 
+  <br> 
+
+
+  <h2 style="color: orange; background-color:#808080;"><u>WATCH THIS</u></h2> 
+  
+  <div class="kwento" style="position:absolute; top:100px; left:10px;  color: white; "></div>
+  <video width="1000" height="670" controls>
+    <source src="ACT4.mp4" type="video/mp4">
+    <source src="ACT4.mp4" type="video/ogg">
+  </video>
+</div>
+
+
+  <p style="color:white;"> sa lahat lahat ng natutunan ko sa klase, nagpapasalamat ako sa aking instructor na si Sir Jonas Macapagal <br> 
+    sa pag tuturo samin kung pano namin lubos na mauunawaan ang mga aralin at kung paano lubos na maisasakatuparan ang pagiging isang ganap <br> 
+    na programer at isang web developer. 
+   </p>
+  
+  
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/web.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+  //5-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Act 4</title>
+  
+<link rel="stylesheet" href="soda.css">
+</head>
+<body>
+<center>
+ <h1 style="color:orange;">ACTIVITY 5 </h1>
+<hr>
+<h2 style="color:whitesmoke;"><b>FAMILY</b> </p>
+<hr> 
+  <br> 
+
+
+  <h2 style="color: orange; background-color:#808080;"><u>WATCH THIS</u></h2> 
+  
+  <div class="kwento" style="position:absolute; top:100px; left:10px;  color: white; "></div>
+  <video width="1000" height="670" controls>
+    <source src="ACT5.mp4" type="video/mp4">
+    <source src="ACT5.mp4" type="video/ogg">
+  </video>
+</div>
+
+
+  <p style="color:white;"> sa lahat lahat ng natutunan ko sa klase, nagpapasalamat ako sa aking instructor na si Sir Jonas Macapagal <br> 
+    sa pag tuturo samin kung pano namin lubos na mauunawaan ang mga aralin at kung paano lubos na maisasakatuparan ang pagiging isang ganap <br> 
+    na programer at isang web developer. 
+   </p>
+  
+  
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/IPT%20WEB/web.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+  
+  
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //act2-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('su.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+border-style: solid;
+border-color: green;
+padding: 15px;
+border-image: url('vc.JPG') 30 stretch;
+background-image: url(img_flwr.gif), url(hc.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h2 {
+ background-image: url(img_flwr.gif), url(sd.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h3 {
+  background-color:#808080;
+  color: white;
+}
+
+P {
+  background-color:#FFFFE0;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+}
+
+
+</style>
+</head>
+<body>
+<center>
+ <h1 style="color:yellow; text-shadow: 5px 5px 1px #008000;">MY SECOND ACTIVITY </h1>
+<hr> 
+<h2 style="color:yellow; text-shadow: 5px 5px 1px #008000;"> Good day! let's try <b> THE HTML PRACTICE </b> </p>
+<hr> 
+  
+  <h3 style="color:#A83731;"><u>W3SCHOOLS</u></h3> 
+  
+  <a href="https://www.w3schools.com/default.asp"><img src="w3.JPG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Ito ang isa sa mga napili kong web site dahil ang web site na ito ay Malaki ang naitulong sa akin. Isa sa mga naitulong ng <br>
+   web site na ito sa akin ay ito ay aking nagging guide sap ag code sa lahat ng computer language na ginagawa ko. Isa pa sa mga naitulong ng website<br>
+   na ito ay ito ay aking nagging katuwang sa p-ag tuklas ng mga bago sa programming. Nagging isa itongweb site na ito sa aking mga reference sa pag<br>
+   aaral at pag papractice mag isa upang mas lalo ko pang maunawaan ang programming.  At ito ay aking nagagamit sap ag sagot sa mga dapat sagutin sa<br>
+   leksyon naming sa subject na progamming un lang ☺
+   </p>
+  
+  <h3 style="color:#A83731;"><u>INSTAGRAM</u></h3> 
+  
+  <a href=" https://www.instagram.com/ " target="_blank"><img src="ig.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko ito dahil ang ganda ng web site na ito, dahil maraming mga sikat na tao ang gumagamit nito. Isa sa mga kagandahan<br>
+   ng web site na ito ay makaakasalamuha ka ng mga artista dito kaaya napili ko ito. Isa pa ay marami kang mga kilalang tao na makikilala sa wed site <br>
+  na ito. Dito rin ay makikia mo ang maraming mga mayayamang tao at business nila. Dito rin ay marami kang makikitang mga magagandang babae at makikisig <br>
+  na mga pwersonalidad. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>FACEBOOK</u></h3> 
+  
+  <a href="https://www.facebook.com/profile.php?id=100052957572390" target="_blank"><img src="fb.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ang laki ng naitulong nito sa akin. Isa sa mga naitulong ng website na ito sa akin<br>
+   ay ang pagkakaroon ng koneksyon sa mga kaibigan upang madalli ko silang matawagan at makausap. Isa pa napapadali ang pagbibigay ng mga mensahe sa<br>
+   mga taong  gusto kong makausap at makuhaan ng impormasyon. Ditto sa website na ito ay Malaya kong naihahayag ang mga naararamdaman ko. At ang website<br>
+   na ito ay isa sa nakatulong sa akin upang malampasan ang matinding stress na adala ng pandemic. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>YOUTUBE</u></h3> 
+  
+  <a href=" https://www.youtube.com/watch?v=lTRiuFIWV54&t=2342s" target="_blank"><img src="yt.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Isa ito sa mga nappili kong website dahil napaka ganda at galling ng website na ito. Ang website na ito ay Malaki ang naitulong <br>
+  sa akin sa aking pag aaral at pag aral ng tugtug sa gitara. Dito sa website na ito mahahanap ang samut saring uri ng entertainment at higit sa lahat<br>
+   mga palabas para sa pagkatuto. Ito rin ay natulungan ako upang makapakinig ng mga musika at malaman mga liriko ng mga ito. At higit sa lahat nagagamit<br>
+   ko ito upang pagralan at maunawaan ang mga leksyon na malabong naisalaysay ng aming mga guro. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>CRUNCHYROLL</u></h3> 
+  
+  <a href="https://www.crunchyroll.com/" target="_blank"><img src="cr.PNG" alt="Paris" width="150" height="150"></a>
+  
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ito ay isa sa akingmgma paborito. Dito sa website na ito ko napapanood ang mga paborito<br>
+   kong mga anime series at movies . sadyang nakakalibang ang website na ito dahil lahat ng mga baging labas na anime series ay nandito tulad ng my <br>
+  hero academia at that time I reincarnated as a slime. Pag wala na akong ginagawa sa bahay at mga gawin sa school ay dito ako sa website na ito<br>
+   tumatambay dahil paborito ko talaga ang panood ng anime. Itong website na ito ay masasabi kong the best dahil ang ganda at nakakalibang talaga<br>
+  yun lang salamat. 
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  </body>
+  </html>
+  
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //act3-------------------------------------------------------------------------------------------------------------------------------------------------------------
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="po.css">
+</head>
+<body>
+
+<center>
+ <h1 style="color:yellow; text-shadow: 5px 5px 1px #008000;">MY SECOND ACTIVITY </h1>
+<hr> 
+<h2 style="color:yellow; text-shadow: 5px 5px 1px #008000;"> Good day! let's try <b> THE HTML PRACTICE </b> </p>
+<hr> 
+  
+  <h3 style="color:#A83731;"><u>W3SCHOOLS</u></h3> 
+  
+  <a href="https://www.w3schools.com/default.asp"><img src="w3.JPG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Ito ang isa sa mga napili kong web site dahil ang web site na ito ay Malaki ang naitulong sa akin. Isa sa mga naitulong ng <br>
+   web site na ito sa akin ay ito ay aking nagging guide sap ag code sa lahat ng computer language na ginagawa ko. Isa pa sa mga naitulong ng website<br>
+   na ito ay ito ay aking nagging katuwang sa p-ag tuklas ng mga bago sa programming. Nagging isa itongweb site na ito sa aking mga reference sa pag<br>
+   aaral at pag papractice mag isa upang mas lalo ko pang maunawaan ang programming.  At ito ay aking nagagamit sap ag sagot sa mga dapat sagutin sa<br>
+   leksyon naming sa subject na progamming un lang ☺
+   </p>
+  
+  <h3 style="color:#A83731;"><u>INSTAGRAM</u></h3> 
+  
+  <a href=" https://www.instagram.com/ " target="_blank"><img src="ig.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko ito dahil ang ganda ng web site na ito, dahil maraming mga sikat na tao ang gumagamit nito. Isa sa mga kagandahan<br>
+   ng web site na ito ay makaakasalamuha ka ng mga artista dito kaaya napili ko ito. Isa pa ay marami kang mga kilalang tao na makikilala sa wed site <br>
+  na ito. Dito rin ay makikia mo ang maraming mga mayayamang tao at business nila. Dito rin ay marami kang makikitang mga magagandang babae at makikisig <br>
+  na mga pwersonalidad. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>FACEBOOK</u></h3> 
+  
+  <a href="https://www.facebook.com/profile.php?id=100052957572390" target="_blank"><img src="fb.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ang laki ng naitulong nito sa akin. Isa sa mga naitulong ng website na ito sa akin<br>
+   ay ang pagkakaroon ng koneksyon sa mga kaibigan upang madalli ko silang matawagan at makausap. Isa pa napapadali ang pagbibigay ng mga mensahe sa<br>
+   mga taong  gusto kong makausap at makuhaan ng impormasyon. Ditto sa website na ito ay Malaya kong naihahayag ang mga naararamdaman ko. At ang website<br>
+   na ito ay isa sa nakatulong sa akin upang malampasan ang matinding stress na adala ng pandemic. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>YOUTUBE</u></h3> 
+  
+  <a href=" https://www.youtube.com/watch?v=lTRiuFIWV54&t=2342s" target="_blank"><img src="yt.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Isa ito sa mga nappili kong website dahil napaka ganda at galling ng website na ito. Ang website na ito ay Malaki ang naitulong <br>
+  sa akin sa aking pag aaral at pag aral ng tugtug sa gitara. Dito sa website na ito mahahanap ang samut saring uri ng entertainment at higit sa lahat<br>
+   mga palabas para sa pagkatuto. Ito rin ay natulungan ako upang makapakinig ng mga musika at malaman mga liriko ng mga ito. At higit sa lahat nagagamit<br>
+   ko ito upang pagralan at maunawaan ang mga leksyon na malabong naisalaysay ng aming mga guro. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>CRUNCHYROLL</u></h3> 
+  
+  <a href="https://www.crunchyroll.com/" target="_blank"><img src="cr.PNG" alt="Paris" width="150" height="150"></a>
+  
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ito ay isa sa akingmgma paborito. Dito sa website na ito ko napapanood ang mga paborito<br>
+   kong mga anime series at movies . sadyang nakakalibang ang website na ito dahil lahat ng mga baging labas na anime series ay nandito tulad ng my <br>
+  hero academia at that time I reincarnated as a slime. Pag wala na akong ginagawa sa bahay at mga gawin sa school ay dito ako sa website na ito<br>
+   tumatambay dahil paborito ko talaga ang panood ng anime. Itong website na ito ay masasabi kong the best dahil ang ganda at nakakalibang talaga<br>
+  yun lang salamat. 
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/jasson%20act%204/jason2.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+   //css-------------------------------------------------------------------------------------------------------------------------------------------------------------
+   body {
+  background-image: url('su.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+border-style: solid;
+border-color: green;
+padding: 15px;
+border-image: url('vc.JPG') 30 stretch;
+background-image: url(img_flwr.gif), url(hc.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h2 {
+ background-image: url(img_flwr.gif), url(sd.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h3 {
+  background-color:#808080;
+  color: white;
+}
+
+P {
+  background-color:#FFFFE0;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+}
+
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ //act4-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="po.css">
+</head>
+<body>
+
+<center>
+ <h1 style="color:yellow; text-shadow: 5px 5px 1px #008000;">MY SECOND ACTIVITY </h1>
+<hr> 
+<h2 style="color:yellow; text-shadow: 5px 5px 1px #008000;"> Good day! let's try <b> THE HTML PRACTICE </b> </p>
+<hr> 
+  
+  <h3 style="color:#A83731;"><u>W3SCHOOLS</u></h3> 
+  
+  <a href="https://www.w3schools.com/default.asp"><img src="w3.JPG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Ito ang isa sa mga napili kong web site dahil ang web site na ito ay Malaki ang naitulong sa akin. Isa sa mga naitulong ng <br>
+   web site na ito sa akin ay ito ay aking nagging guide sap ag code sa lahat ng computer language na ginagawa ko. Isa pa sa mga naitulong ng website<br>
+   na ito ay ito ay aking nagging katuwang sa p-ag tuklas ng mga bago sa programming. Nagging isa itongweb site na ito sa aking mga reference sa pag<br>
+   aaral at pag papractice mag isa upang mas lalo ko pang maunawaan ang programming.  At ito ay aking nagagamit sap ag sagot sa mga dapat sagutin sa<br>
+   leksyon naming sa subject na progamming un lang ☺
+   </p>
+  
+  <h3 style="color:#A83731;"><u>INSTAGRAM</u></h3> 
+  
+  <a href=" https://www.instagram.com/ " target="_blank"><img src="ig.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko ito dahil ang ganda ng web site na ito, dahil maraming mga sikat na tao ang gumagamit nito. Isa sa mga kagandahan<br>
+   ng web site na ito ay makaakasalamuha ka ng mga artista dito kaaya napili ko ito. Isa pa ay marami kang mga kilalang tao na makikilala sa wed site <br>
+  na ito. Dito rin ay makikia mo ang maraming mga mayayamang tao at business nila. Dito rin ay marami kang makikitang mga magagandang babae at makikisig <br>
+  na mga pwersonalidad. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>FACEBOOK</u></h3> 
+  
+  <a href="https://www.facebook.com/profile.php?id=100052957572390" target="_blank"><img src="fb.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ang laki ng naitulong nito sa akin. Isa sa mga naitulong ng website na ito sa akin<br>
+   ay ang pagkakaroon ng koneksyon sa mga kaibigan upang madalli ko silang matawagan at makausap. Isa pa napapadali ang pagbibigay ng mga mensahe sa<br>
+   mga taong  gusto kong makausap at makuhaan ng impormasyon. Ditto sa website na ito ay Malaya kong naihahayag ang mga naararamdaman ko. At ang website<br>
+   na ito ay isa sa nakatulong sa akin upang malampasan ang matinding stress na adala ng pandemic. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>YOUTUBE</u></h3> 
+  
+  <a href=" https://www.youtube.com/watch?v=lTRiuFIWV54&t=2342s" target="_blank"><img src="yt.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Isa ito sa mga nappili kong website dahil napaka ganda at galling ng website na ito. Ang website na ito ay Malaki ang naitulong <br>
+  sa akin sa aking pag aaral at pag aral ng tugtug sa gitara. Dito sa website na ito mahahanap ang samut saring uri ng entertainment at higit sa lahat<br>
+   mga palabas para sa pagkatuto. Ito rin ay natulungan ako upang makapakinig ng mga musika at malaman mga liriko ng mga ito. At higit sa lahat nagagamit<br>
+   ko ito upang pagralan at maunawaan ang mga leksyon na malabong naisalaysay ng aming mga guro. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>CRUNCHYROLL</u></h3> 
+  
+  <a href="https://www.crunchyroll.com/" target="_blank"><img src="cr.PNG" alt="Paris" width="150" height="150"></a>
+  
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ito ay isa sa akingmgma paborito. Dito sa website na ito ko napapanood ang mga paborito<br>
+   kong mga anime series at movies . sadyang nakakalibang ang website na ito dahil lahat ng mga baging labas na anime series ay nandito tulad ng my <br>
+  hero academia at that time I reincarnated as a slime. Pag wala na akong ginagawa sa bahay at mga gawin sa school ay dito ako sa website na ito<br>
+   tumatambay dahil paborito ko talaga ang panood ng anime. Itong website na ito ay masasabi kong the best dahil ang ganda at nakakalibang talaga<br>
+  yun lang salamat. 
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/jason%20ipt%20act%204/ppt2.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+   //part2-------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css"> 
+ 
+</head>
+<body>
+<center>
+
+<h1 style="color:white; font-family: Arial, Helvetica, sans-serif ">MENU</h1>
+<hr> 
+
+                 <div class="paborito" style="position:absolute; top:200px; left:60px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jason%20ipt%20act%204/ppt1.html"> <img src="f.PNG" width="40" height="40" >
+				</button>
+			</div>
+
+                              <div class="kwento" style="position:absolute; top:200px; left:200px;  background-color:#808080; color: white; ">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My favorite color is gray because it feels like it is so calming and i like simple things, i also love to cook special vagetables ang soup then i also love <br> 
+                                       playing guitar because music makes me feel comfortableang relax, then one thing that will never be taken from me is my love in studying, I realy love styding <br> 
+                                       I love learning new things and learn new skills then I also love traveling out of town like going into provinces and visiting nature bcause i realy love birds and farm anuimals <br> 
+                                       that can only be seen in provinces. and that sll thank you ☺ </p>
+					</div>
+
+
+
+                <div class="favorite" style="position:absolute; top:500px; left:60px;">
+				<button style="display:inline-block">
+					<a href="file:///C:/Users/admin/Downloads/jason%20ipt%20act%204/ppt3.html">  <img src="ui.PNG" width="40" height="40" >
+				</button>
+			</div>
+
+                             <div class="kwento" style="position:absolute; top:500px; left:200px;  background-color:#808080; color: white; ">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+                                       San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+                                       I know to do and I love to do </p>
+                            </div>
+
+
+						
+
+<br>
+<br>
+<br>
+<br>
+
+                  <div class="favorite" style="position:absolute; top:800px; left:650px;">
+				<button style="display:inline-block caption:'back to home';">
+ 					<a href="file:///C:/Users/admin/Downloads/jason%20ipt%20act%204/ppt3.html"> <img src="hp.JPEG" width="200" height="60" >
+				</button>
+			</div>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br>
+
+</body>
+</html>
+
+//part3-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> USER INFORMATION </h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JASON E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE STUDYING______________________</h3>
+               <h6 style="color: white;background-color: skyblue;">sorry for being workaholic</h6>
+     </center>
+     <img src="ja.PNG" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">in a realationship</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic </div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5.11 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jason%20ipt%20act%204/ppt2.html"> <img src="m.PNG" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+              San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+              I know to do and I love to do, if you want to know many more about me click the menu button, thank you ☺ </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+
+//css-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+body {
+  background-image: url('BK.JPG');
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+.btn {
+  background-color: DodgerBlue;
+   border: none;
+   color: white;
+   padding: 12px 16px;
+   font-size: 16px;
+  cursor: pointer;
+    }
+.btn:hover {
+   background-color: orange;
+    }
+    h1:hover {
+      background-color: orange;
+       }
+       h2:hover {
+        background-color: orange;
+         }
+         h3:hover {
+          background-color: orange;
+           }
+           h6.hover {
+            background-color: orange;
+             }
+             p.hover {
+              background-color: orange;
+               }
+            
+form{
+   position: relative;
+  top:50px;
+  left:100px;
+  }
+h1{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color:skyblue;
+  }
+h4{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue);
+  position: relative;
+  top:-70px;
+   left:100px;
+      }
+h2{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue;
+  }
+h3{
+    color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue;
+  }   
+img {
+  border-radius: 20%;
+      }
+
+.relative {
+  position: left;
+  left: 30px;
+  border: 3px solid brown;
+         }
+         .header{
+          position: relative;
+          bottom: 90px;
+          border-style: solid;
+          color: black;
+          background-color: skyblue;
+          margin-left: 500px;
+          margin-right: 500px;
+          opacity: 0.7;
+          border-radius: 5px;
+          font-size: large;
+          
+      }
+      
+      .header:hover{
+          background-color: skyblue; transform: scale(1);
+          margin-left: 510px;
+          border-radius: 10px;
+          margin-right: 510px;
+          padding: 5px 5px;
+      }
+      .col1{
+        border-style: none;
+        color: black;
+        background-color:  skyblue;
+        position: relative;
+        width: 23.33%;
+        float: left;
+        margin-left: 300px;
+        font-size: 12;
+        border-radius: 4px;
+        opacity: 0.8;
+        text-align: center;
+    }
+    .col1:hover{
+        background-color: orange; transform: scale(1);
+        border-radius: 10px;
+    }
+    
+    .col2{
+        border-style: none;
+        color: black;
+        background-color: skyblue;
+        position: relative;
+        width: 23.33%;
+        float: right;
+        margin-right: 300px;
+        border-radius: 4px;
+        opacity: 0.8;
+    }
+    .col2:hover{
+        background-color: orange; transform: scale(1);
+        border-radius: 10px;
+    }
+    
+    .love {
+      background-color: skyblue;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+
+    .bb{
+      background-color: #f44336;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    .bb {
+      background-color: orange;
+    }
+
+    .mama {
+      border-radius: 5%;
+          }
+          .kwento {
+            background-image: url('bbq.JPG');
+            border-radius: 10%;
+            background-size: cover;
+                }
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//act5-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('su.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+border-style: solid;
+border-color: green;
+padding: 15px;
+border-image: url('vc.JPG') 30 stretch;
+background-image: url(img_flwr.gif), url(hc.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h2 {
+ background-image: url(img_flwr.gif), url(sd.JPEG);
+background-position: right bottom, left top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h3 {
+  background-color:#808080;
+  color: white;
+}
+
+P {
+  background-color:#FFFFE0;
+  color: white;
+}
+
+img {
+  border-radius: 50%;
+}
+
+
+</style>
+</head>
+<body>
+<center>
+ <h1 style="color:yellow; text-shadow: 5px 5px 1px #008000;">MY SECOND ACTIVITY </h1>
+<hr> 
+<h2 style="color:yellow; text-shadow: 5px 5px 1px #008000;"> Good day! let's try <b> THE HTML PRACTICE </b> </p>
+<hr> 
+  
+  <h3 style="color:#A83731;"><u>W3SCHOOLS</u></h3> 
+  
+  <a href="https://www.w3schools.com/default.asp"><img src="w3.JPG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Ito ang isa sa mga napili kong web site dahil ang web site na ito ay Malaki ang naitulong sa akin. Isa sa mga naitulong ng <br>
+   web site na ito sa akin ay ito ay aking nagging guide sap ag code sa lahat ng computer language na ginagawa ko. Isa pa sa mga naitulong ng website<br>
+   na ito ay ito ay aking nagging katuwang sa p-ag tuklas ng mga bago sa programming. Nagging isa itongweb site na ito sa aking mga reference sa pag<br>
+   aaral at pag papractice mag isa upang mas lalo ko pang maunawaan ang programming.  At ito ay aking nagagamit sap ag sagot sa mga dapat sagutin sa<br>
+   leksyon naming sa subject na progamming un lang ☺
+   </p>
+  
+  <h3 style="color:#A83731;"><u>INSTAGRAM</u></h3> 
+  
+  <a href=" https://www.instagram.com/ " target="_blank"><img src="ig.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko ito dahil ang ganda ng web site na ito, dahil maraming mga sikat na tao ang gumagamit nito. Isa sa mga kagandahan<br>
+   ng web site na ito ay makaakasalamuha ka ng mga artista dito kaaya napili ko ito. Isa pa ay marami kang mga kilalang tao na makikilala sa wed site <br>
+  na ito. Dito rin ay makikia mo ang maraming mga mayayamang tao at business nila. Dito rin ay marami kang makikitang mga magagandang babae at makikisig <br>
+  na mga pwersonalidad. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>FACEBOOK</u></h3> 
+  
+  <a href="https://www.facebook.com/profile.php?id=100052957572390" target="_blank"><img src="fb.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ang laki ng naitulong nito sa akin. Isa sa mga naitulong ng website na ito sa akin<br>
+   ay ang pagkakaroon ng koneksyon sa mga kaibigan upang madalli ko silang matawagan at makausap. Isa pa napapadali ang pagbibigay ng mga mensahe sa<br>
+   mga taong  gusto kong makausap at makuhaan ng impormasyon. Ditto sa website na ito ay Malaya kong naihahayag ang mga naararamdaman ko. At ang website<br>
+   na ito ay isa sa nakatulong sa akin upang malampasan ang matinding stress na adala ng pandemic. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>YOUTUBE</u></h3> 
+  
+  <a href=" https://www.youtube.com/watch?v=lTRiuFIWV54&t=2342s" target="_blank"><img src="yt.PNG" alt="Paris" width="150" height="150"></a>
+  
+  <p style="color:#A83731;">Isa ito sa mga nappili kong website dahil napaka ganda at galling ng website na ito. Ang website na ito ay Malaki ang naitulong <br>
+  sa akin sa aking pag aaral at pag aral ng tugtug sa gitara. Dito sa website na ito mahahanap ang samut saring uri ng entertainment at higit sa lahat<br>
+   mga palabas para sa pagkatuto. Ito rin ay natulungan ako upang makapakinig ng mga musika at malaman mga liriko ng mga ito. At higit sa lahat nagagamit<br>
+   ko ito upang pagralan at maunawaan ang mga leksyon na malabong naisalaysay ng aming mga guro. 
+  </p>
+  
+  <h3 style="color:#A83731;"><u>CRUNCHYROLL</u></h3> 
+  
+  <a href="https://www.crunchyroll.com/" target="_blank"><img src="cr.PNG" alt="Paris" width="150" height="150"></a>
+  
+  
+  <p style="color:#A83731;">Napili ko itong website na ito dahil ito ay isa sa akingmgma paborito. Dito sa website na ito ko napapanood ang mga paborito<br>
+   kong mga anime series at movies . sadyang nakakalibang ang website na ito dahil lahat ng mga baging labas na anime series ay nandito tulad ng my <br>
+  hero academia at that time I reincarnated as a slime. Pag wala na akong ginagawa sa bahay at mga gawin sa school ay dito ako sa website na ito<br>
+   tumatambay dahil paborito ko talaga ang panood ng anime. Itong website na ito ay masasabi kong the best dahil ang ganda at nakakalibang talaga<br>
+  yun lang salamat. 
+  </p>
+  <br>
+  <br>
+  <br>
+  
+  <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason2.html"><input type="submit" value="Back" style="height:30px; width:140px">
+  </body>
+  </html>
+  
+  //part1-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> USER INFORMATION </h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JASON E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE STUDYING______________________</h3>
+               <h6 style="color: white;background-color: skyblue;">sorry for being workaholic</h6>
+     </center>
+     <img src="ja.PNG" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">in a realationship</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic </div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5.11 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason2.html"> <img src="m.PNG" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+              San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+              I know to do and I love to do, if you want to know many more about me click the menu button, thank you ☺ </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+ //part2-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css"> 
+ 
+</head>
+<body>
+<center>
+
+<h1 style="color:white; font-family: Arial, Helvetica, sans-serif ">MENU</h1>
+<hr> 
+
+                 <div class="paborito" style="position:absolute; top:200px; left:60px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason.html"> <img src="f.PNG" width="40" height="40" >
+				</button>
+			</div>
+
+                              <div class="kwento" style="position:absolute; top:200px; left:200px;  background-color:#808080; color: white; ">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My favorite color is gray because it feels like it is so calming and i like simple things, i also love to cook special vagetables ang soup then i also love <br> 
+                                       playing guitar because music makes me feel comfortableang relax, then one thing that will never be taken from me is my love in studying, I realy love styding <br> 
+                                       I love learning new things and learn new skills then I also love traveling out of town like going into provinces and visiting nature bcause i realy love birds and farm anuimals <br> 
+                                       that can only be seen in provinces. and that sll thank you ☺ </p>
+					</div>
+
+
+
+                <div class="favorite" style="position:absolute; top:500px; left:60px;">
+				<button style="display:inline-block">
+					<a href="file:///C:/Users/admin/Downloads/jasson%20act%204/jason1.html">  <img src="ui.PNG" width="40" height="40" >
+				</button>
+			</div>
+
+                             <div class="kwento" style="position:absolute; top:500px; left:200px;  background-color:#808080; color: white; ">
+						<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+                                       San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+                                       I know to do and I love to do </p>
+                            </div>
+
+
+							<div class="favorite" style="position:absolute; top:700px; left:60px;">
+								<button style="display:inline-block">
+									<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"><img src="fab.PNG" width="40" height="40" >
+								</button>
+							</div>
+				
+							<div class="kwento" style="position:absolute; top:700px; left:200px;  background-color:#808080; color: white; ">
+								<p>My family is a small family we leaave together to survive the entire day adays and nights. as years past by we grow stronger and stronger and we have build a strong and trustworthy <br> 
+								foundation in our family. </p>
+									</div>
+
+<br>
+<br>
+<br>
+<br>
+
+                  <div class="favorite" style="position:absolute; top:800px; left:650px;">
+				<button style="display:inline-block caption:'back to home';">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason1.html"> <img src="hp.JPEG" width="200" height="60" >
+				</button>
+			</div>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br>
+
+</body>
+</html>
+
+//part3---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> MY FAMILY </h1> 
+    </center>
+        <br>
+        <br>
+    <div class="kwento" style="position:absolute; top:100px; left:100px;  background-color: skyblue; color: white; ">
+        <img src="jaja.JPG" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+        <p>Me</p>
+        <p> PLACE OF BIRTH: NEGROS ORIENTAL<br> 
+            CITIZENSHIP: FILIPINO<br> 
+            CIVIL STATUS: SINGLE<br> 
+            RELIGION: BORN AGAIN APOSTOLIC <br> 
+            HEIGHT: 6'0</p>
+            <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage1.html" target="_blank" class ="bb">See profile</a>
+            </div>
+           
+           
+            <div class="kwento" style="position:absolute; top:100px; left:600px;  background-color: skyblue; color: white; ">
+                <img src="p1.png" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+                <p> PAPA<br> 
+                    PLACE OF BIRTH: NEGROS ORIENTAL<br>
+                    CITIZENSHIP: FILIPINO<br>
+                    CIVIL STATUS: MARRIED<br>
+                    RELIGION: ROMAN CATHOLIC<br>
+                    HEIGHT: 5'
+                </p>
+                    <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage2papa.html" target="_blank" class ="bb">See profile</a>
+                    </div>
+
+                    <div class="kwento" style="position:absolute; top:100px; left:1100px;  background-color: skyblue; color: white; ">
+                        <img src="p2.png" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+                        <p> MAMA<br> 
+                            PLACE OF BIRTH: NEGROS ORIENTAL<br>
+                            CITIZENSHIP: FILIPINO<br>
+                            CIVIL STATUS: MARRIED<br>
+                            RELIGION: BORN AGAIN APOSTOLIC <br>
+                            HEIGHT: 5'2
+                        </p>
+                            <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage3mama.html" target="_blank" class ="bb">See profile</a>
+                            </div>
+
+                            <div class="kwento" style="position:absolute; top:800px; left:100px;   color: white; ">
+                                <img src="p3.png" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+                                <p> ATE<br> 
+                                    PLACE OF BIRTH: NEGROS ORIENTAL<br>
+                                    CITIZENSHIP: FILIPINO<br>
+                                    CIVIL STATUS: SINLGLE<br>
+                                    RELIGION: BORN AGAIN APOSTOLIC<br>
+                                    HEIGHT: 5'2
+                                </p>
+                                    <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage4jessa.html" target="_blank" class ="bb">See profile</a>
+                                    </div>
+                                    
+
+                                    <div class="kwento" style="position:absolute; top:800px; left:600px;  background-color: skyblue; color: white; ">
+                                        <img src="p4.png" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+                                        <p> ATE<br> 
+                                            PLACE OF BIRTH: NEGROS ORIENTALL<br>
+                                            CITIZENSHIP: FILIPINO<br>
+                                            CIVIL STATUS: MARRIED<br>
+                                            RELIGION: BORN AGAIN APOSTOLIC<br>
+                                            HEIGHT: 5'2
+                                        </p>
+                                            <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage5jessica.html" target="_blank" class ="bb">See profile</a>
+                                            </div>
+
+                                            <div class="kwento" style="position:absolute; top:800px; left:1100px;  background-color: skyblue; color: white; ">
+                                                <img src="p5.png" class="mama" style="width:300px;height:350px;border-style: solid;border-color: orange;">
+                                                <p> BUNSO<br> 
+                                                    PLACE OF BIRTH: CARMEN, BOHOL<br>
+                                                    CITIZENSHIP: FILIPINO<br>
+                                                    CIVIL STATUS: SINGLE<br>
+                                                    RELIGION: BORN AGAIN APOSTOLIC<br>
+                                                    HEIGHT: 5'00
+                                                </p>
+                                                    <a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jasonpage6bunso.html" target="_blank" class ="bb">See profile</a>
+                                                    </div>
+            <br>
+            <br>
+            <br>
+            <br>
+                          <div class="favorite" style="position:absolute; top:1500px; left:650px;">
+				<button style="display:inline-block captio:'back to home';">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason2.html"> <img src="Bm.PNG" width="200" height="60" >
+				</button>
+			</div>
+<br>
+<br>
+<br>
+<br>
+<br><br><br><br><br><br>
+<hr> 
+<hr> 
+
+
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+
+//part4---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif ">FAMILY </h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JASON E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE STUDYING______________________</h3>
+               <h6 style="color: white;background-color: skyblue;">sorry for being workaholic</h6>
+     </center>
+     <img src="ja.PNG" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">in a realationship</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic </div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5.11 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+              San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+              I know to do and I love to do, if you want to know many more about me click the menu button, thank you ☺ </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part5---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> FAMILY</h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________ALFREDO E. DIONANAO .JR__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE DRIVING______________________</h3>
+
+     </center>
+     <img src="p1.png" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">MARRIED</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">ROMAN CATHOLIC </div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A father is the male parent of a child. Besides the paternal bonds of a father to his children, the father may have a parental, legal, and social relationship <br> 
+              with the child that carries with it certain rights and obligations. </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part6---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> FAMILY</h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________EVANGELINE E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE COOKING______________________</h3>
+
+     </center>
+     <img src="p2.png" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">MARRIED</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic</div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5 </div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your mother is the woman who gave birth to you: mothers are parents, the female equivalent of a father. Besides biological mothers, there are stepmothers <br> 
+               and adopted mothers: they all do mothering, which means taking care of children (or, sometimes, being overprotective of children). Oddly enough, a <br> 
+               mother is also slimy substance that forms during the fermentation of wine or cider. But in any case, mothers give and sustain life. </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part7---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> FAMILY</h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JESSA MAE E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE EATING______________________</h3>
+
+     </center>
+     <img src="p3.png" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">SINGLE</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic</div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your biological sister has the same mother and father that you have, but some sisters are adopted, or even have a different mom or dad (some people call this a stepsister <br>
+                                                       or a half-sister). If you join a college sorority or a trade union, you'll refer to the other members as your sisters. Catholic nuns and other religious women are also <br>
+                                                       called sisters. The roots of sister go back to words meaning "one's own" and "woman."</p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part8---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> FAMILY</h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JESSICA E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE WORKING______________________</h3>
+
+     </center>
+     <img src="p4.png" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">MARRIED</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic</div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your biological sister has the same mother and father that you have, but some sisters are adopted, or even have a different mom or dad (some people call this a stepsister <br>
+                                                       or a half-sister). If you join a college sorority or a trade union, you'll refer to the other members as your sisters. Catholic nuns and other religious women are also <br>
+                                                       called sisters. The roots of sister go back to words meaning "one's own" and "woman."</p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part9---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    
+<link rel="stylesheet" href="jas1.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> FAMILY</h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JAMAICA E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE PLAYING______________________</h3>
+
+     </center>
+     <img src="p5.png" style="width:210px;height:210px;border-style: solid;border-color: skyblue; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+                <div class="container">
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <div class="col1">Place of Birth:</div> 
+                    <div class="col2">negros oriental </div>
+                    <br>
+                    <br>
+                    <div class="col1">Civil Status:</div>
+                    <div class="col2">SINGLE</div>
+                    <br>
+                    <br>
+                    <div class="col1">Religion:</div>
+                    <div class="col2">Born again apostolic</div>
+                    <br>
+                    <br>
+                    <div class="col1">Citizenship:</div>
+                    <div class="col2">Filipino  </div>
+                    <br>
+                    <br>
+                    <div class="col1">height:</div>
+                    <div class="col2">5 feet</div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%205/jason3.html"> <img src="fab.png" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your biological sister has the same mother and father that you have, but some sisters are adopted, or even have a different mom or dad (some people call this a stepsister <br>
+                                                       or a half-sister). If you join a college sorority or a trade union, you'll refer to the other members as your sisters. Catholic nuns and other religious women are also <br>
+                                                       called sisters. The roots of sister go back to words meaning "one's own" and "woman."</p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//part10---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act 4</title>
+    <link rel="stylesheet" href="jasondesign.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <center>
+        <h1 style="color:white; font-family: Arial, Helvetica, sans-serif "> USER INFORMATION </h1> 
+    </center>
+        <br>
+        <br>
+     <center>
+           <h2 style="color:white; font-family: Arial, Helvetica, sans-serif ">_____________JASON E. DIONANAO__________________</h2>
+           <h3 style="color:white; font-family: Arial, Helvetica, sans-serif ">__________________I LOVE STUDYING______________________</h3>
+               <p style="color: white;background-color: rgb(81, 121, 107);">sorry for being workaholic</p>
+     </center>
+               <img src="ja.PNG" style="width:210px;height:210px;border-style: solid;border-color: olivedrab; float:right" id="img"> 
+        <br>
+        <br> 
+        <br> 
+        	<form action="/action_page.php">
+       		<fieldset>
+             <center>
+        		<legend> </legend>
+         			 <a style="color: white; border-style: solid;border-color: olivedrab;background-color: rgb(81, 121, 107);border-width:5px; border-height:.5px;"><label for="pob"> PLACE OF BIRTH: </label></a>&nbsp;&nbsp;
+         				 <input type="text" id="pob" name="pob"><br><br>
+        			 <a style="color: white; border-style: solid;border-color: olivedrab;background-color: rgb(81, 121, 107);border-width:5px; border-height:.5px;"> <label for="cs"> CIVIL STATUS: </label></a>&nbsp;&nbsp;
+          				 <input type="text" id="cs" name="cs"><br><br>
+         			 <a style="color: white; border-style: solid;border-color: olivedrab;background-color: rgb(81, 121, 107);border-width:5px; border-height:.5px;"><label for="rel"> RELIGION: </label></a>&nbsp;&nbsp;
+        			       <input type="text" id="rel" name="rel"><br><br>
+       			 <a style="color: white; border-style: solid;border-color: olivedrab;background-color: rgb(81, 121, 107);border-width:5px; border-height:.5px;"><label for="text"> CITIZENSHIP: </label></a>&nbsp;&nbsp;
+        			       <input type="text" id="citi" name="citi"><br><br>
+        			 <a style="color: white; border-style: solid;border-color: olivedrab;background-color: rgb(81, 121, 107);border-width:5px; border-height:.5px;"> <label for="height"> HEIGHT: </label></a>&nbsp;&nbsp;
+         				 <input type="number" id="height" name="height"><br><br>
+          </center>
+               </fieldset>
+                    </form>
+        <br><br><br><br><br><br>
+
+       <div class="static" style="position:absolute; top:650px; left:100px;">
+				<button style="display:inline-block">
+ 					<a href="file:///C:/Users/admin/Downloads/jasson%20act%204/jason2.html"> <img src="m.PNG" width="40" height="40" >
+				</button>
+	</div>
+                         &nbsp;&nbsp;
+
+       <div class="relative" style="position:absolute; top:650px; left:300px;  background-color:#808080; color: white; ">
+          <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Jason Dionanao I am 22 years old and I am currently studying bachelor in information technology majoring in computer programming I live in southville 8b <br> 
+              San isdro, Rodriguez, Rizal. I have 3 siblings and I am the only boy among four of us. everyday I am doing a lot of matters and this is just normal, there is also a lot of things<br> 
+              I know to do and I love to do, if you want to know many more about me click the menu button, thank you ☺ </p>
+       </div>
+<br><br><br><br><br><br>
+
+
+</body>
+</html>
+
+//css---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+body {
+  background-image: url('BK.JPG');
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+    }
+.btn {
+  background-color: DodgerBlue;
+   border: none;
+   color: white;
+   padding: 12px 16px;
+   font-size: 16px;
+  cursor: pointer;
+    }
+.btn:hover {
+   background-color: orange;
+    }
+    h1:hover {
+      background-color: orange;
+       }
+       h2:hover {
+        background-color: orange;
+         }
+         h3:hover {
+          background-color: orange;
+           }
+           h6.hover {
+            background-color: orange;
+             }
+             p.hover {
+              background-color: orange;
+               }
+            
+form{
+   position: relative;
+  top:50px;
+  left:100px;
+  }
+h1{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color:skyblue;
+  }
+h4{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue);
+  position: relative;
+  top:-70px;
+   left:100px;
+      }
+h2{
+  color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue;
+  }
+h3{
+    color: white;
+  border-style: solid;
+  border-color: brown;
+  background-color: skyblue;
+  }   
+img {
+  border-radius: 20%;
+      }
+
+.relative {
+  position: left;
+  left: 30px;
+  border: 3px solid brown;
+         }
+         .header{
+          position: relative;
+          bottom: 90px;
+          border-style: solid;
+          color: black;
+          background-color: skyblue;
+          margin-left: 500px;
+          margin-right: 500px;
+          opacity: 0.7;
+          border-radius: 5px;
+          font-size: large;
+          
+      }
+      
+      .header:hover{
+          background-color: skyblue; transform: scale(1);
+          margin-left: 510px;
+          border-radius: 10px;
+          margin-right: 510px;
+          padding: 5px 5px;
+      }
+      .col1{
+        border-style: none;
+        color: black;
+        background-color:  skyblue;
+        position: relative;
+        width: 23.33%;
+        float: left;
+        margin-left: 300px;
+        font-size: 12;
+        border-radius: 4px;
+        opacity: 0.8;
+        text-align: center;
+    }
+    .col1:hover{
+        background-color: orange; transform: scale(1);
+        border-radius: 10px;
+    }
+    
+    .col2{
+        border-style: none;
+        color: black;
+        background-color: skyblue;
+        position: relative;
+        width: 23.33%;
+        float: right;
+        margin-right: 300px;
+        border-radius: 4px;
+        opacity: 0.8;
+    }
+    .col2:hover{
+        background-color: orange; transform: scale(1);
+        border-radius: 10px;
+    }
+    
+    .love {
+      background-color: skyblue;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+
+    .bb{
+      background-color: #f44336;
+      color: white;
+      padding: 14px 25px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    .bb {
+      background-color: orange;
+    }
+
+    .mama {
+      border-radius: 5%;
+          }
+          .kwento {
+            background-image: url('bbq.JPG');
+            border-radius: 10%;
+            background-size: cover;
+                }
+        
